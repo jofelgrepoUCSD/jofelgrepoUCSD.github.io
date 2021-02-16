@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Cabin-Bold';
+    src: url('/static/Cabin-Bold.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cabin-Medium';
+    src: url('/static/Cabin-Medium.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
